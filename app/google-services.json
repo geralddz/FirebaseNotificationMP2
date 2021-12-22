@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1082835372205",
+    "firebase_url": "https://my-healthy-4ca20-default-rtdb.firebaseio.com",
+    "project_id": "my-healthy-4ca20",
+    "storage_bucket": "my-healthy-4ca20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082835372205:android:0a9ec311e6944930729e24",
+        "android_client_info": {
+          "package_name": "com.example.firbeasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082835372205-hajckrt2pcid1qd56g503hvo9v0s3ra9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuyQxvIrZ0Sli1p4B9vLWfLJI-6Izmsac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082835372205-hajckrt2pcid1qd56g503hvo9v0s3ra9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082835372205:android:fa840bf7caedaa2f729e24",
+        "android_client_info": {
+          "package_name": "com.fp.myhealthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082835372205-hajckrt2pcid1qd56g503hvo9v0s3ra9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuyQxvIrZ0Sli1p4B9vLWfLJI-6Izmsac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082835372205-hajckrt2pcid1qd56g503hvo9v0s3ra9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
